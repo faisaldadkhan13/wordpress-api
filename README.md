@@ -8,3 +8,5 @@ Go to the WordPress admin dashboard, navigate to "Plugins," and activate the "Ex
 View the Output:
 
 Once activated, visit any page on your WordPress site, and you should see the API response data displayed (modify the processing part based on your API response structure).
+
+by Faisal Dad Khan
