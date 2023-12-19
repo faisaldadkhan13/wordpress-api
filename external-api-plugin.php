@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: External API Plugin
+Plugin Name: FDK DevOps WP External API Plugin
 Description: Connects to an external API and retrieves data.
 Version: 1.0
 Author: Faisal Dad Khan
